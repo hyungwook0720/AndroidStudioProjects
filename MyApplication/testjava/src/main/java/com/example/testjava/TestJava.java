@@ -7,7 +7,7 @@ public class TestJava {
 
         System.out.println("hello github");
 
-        test
+        System.out.println("test");
     }
 
 }
