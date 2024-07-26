@@ -6,8 +6,6 @@ public class TestJava {
         System.out.println("Hello Python");
 
         System.out.println("hello github");
-
-        test
     }
 
 }
